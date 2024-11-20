@@ -91,13 +91,13 @@ export const personalInfo = [
   {
     id: 6,
     title: 'Address : ',
-    description: 'Djerba Erriadh',
+    description: '112 Place Vanier Val d'Or Qc Canada',
   },
 
   {
     id: 7,
     title: 'Phone : ',
-    description: '+21629549998',
+    description: '+1 819 651 5929',
   },
 
   {
