@@ -91,7 +91,7 @@ export const personalInfo = [
   {
     id: 6,
     title: 'Address : ',
-    description: '112 Place Vanier Val D Or Qc Canada',
+    description: 'Place Vanier Val D Or Qc Canada',
   },
 
   {
